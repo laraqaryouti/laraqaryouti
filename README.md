@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on my graduation project, titled NeuraGuard. It is a website that utilizes Machine Learning for the early detection of Parkinson's Disease. <br/>
 🌱 I’m currently learning react.js, django  <br/>
-⚡ I love the creative aspect that comes with frontend development and UI design. I have an interest in pursuing a career in machine learning in the future. <br/>
+⚡ I love the creative aspect that comes with frontend development and UI design. I have an interest in pursuing a career in Machine Learning and Data Science in the future. <br/>
 
 
 
