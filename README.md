@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on my graduation project, titled NeuraGuard. It is a website that utilizes Machine Learning for the early detection of Parkinson's Disease.
+🌱 I’m currently learning react.js, django 
+⚡ I love the creative aspect that comes with frontend development and UI design. I have an interest in pursuing a career in machine learning in the future. 
+
+
+
+
+
+ 
